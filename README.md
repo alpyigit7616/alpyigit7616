@@ -7,7 +7,7 @@ I believe that age is just a number when it comes to coding, and I'm on a journe
 
 ### 🚀 The Project: YgtHelper
 **YgtHelper** is my latest passion project. 
-> *Buraya YgtHelper'ın ne yaptığını 1 cümleyle yazmalısın. Örn: "A simple tool to automate daily tasks in Python."*
+> *"YgtHelper is a tool for Linux systems. Its like a operating system's tool center."*
 
 I'm looking for friends to code with! If you want to contribute, don't hesitate to open a Pull Request or an Issue. Let's learn together! 🤝
 
@@ -21,7 +21,6 @@ I love exploring new languages and building logic. Here is what I use:
 | **C / C++** | System Programming & Logic |
 | **Python** | Scripting & Automation |
 | **HTML / CSS** | Web Structure & Design |
-| **JavaScript** | Basics (Learning more every day! 📈) |
 
 ---
 
@@ -29,6 +28,7 @@ I love exploring new languages and building logic. Here is what I use:
 * 🌟 Star my projects if you like them!
 * 💬 Ask me about my journey or my projects.
 * 🚀 Let's build the future of open-source together!
+* **My E-mail:** yigitinstudyoo@gmail.com
 
 ---
 *"The best way to predict the future is to invent it."*
