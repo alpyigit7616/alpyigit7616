@@ -1,6 +1,6 @@
 # Hi there, I'm Yiğit! 👋 👨‍💻
 
-I'm a 10-year-old student and a passionate self-taught developer from Turkey. 🇹🇷 
+I'm a student and a passionate self-taught developer from Turkey. 🇹🇷 
 I believe that age is just a number when it comes to coding, and I'm on a journey to build cool things!
 
 ---
